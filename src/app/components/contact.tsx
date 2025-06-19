@@ -109,7 +109,7 @@ export function Contact() {
           viewport={{ once: true }}
           className="text-center mt-16 pt-8 border-t border-slate-700"
         >
-          <p className="text-gray-400">© 2024 Al-Ameen. Built with Next.js, Framer Motion, and Tailwind CSS.</p>
+          <p className="text-gray-400">© 2025 Al-Ameen. Built with Next.js, Framer Motion, and Tailwind CSS.</p>
         </motion.div>
       </div>
     </section>
