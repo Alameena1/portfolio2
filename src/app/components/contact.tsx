@@ -43,9 +43,9 @@ export function Contact() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">Let's Work Together</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">Let&apos;s Work Together</h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            I'm always interested in new opportunities and exciting projects. Let's connect and discuss how we can bring
+            I&apos;m always interested in new opportunities and exciting projects. Let&apos;s connect and discuss how we can bring
             your ideas to life!
           </p>
         </motion.div>
