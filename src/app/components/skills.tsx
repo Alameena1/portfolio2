@@ -28,7 +28,7 @@ export function Skills() {
     },
     {
       title: "Database & Backend",
-      skills: ["MongoDB", "Firebase", "RESTful APIs"],
+      skills: ["MongoDB", "Sql", "postgreSql", "Firebase", "RESTful APIs"],
       color: "from-yellow-500 to-orange-500",
     },
     {
