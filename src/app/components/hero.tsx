@@ -15,7 +15,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2, duration: 0.8 }}
           >
-            Hi, I'm{" "}
+            Hi, I&apos;m{" "}
             <motion.span
               className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
               animate={{
